@@ -40,6 +40,7 @@ const Footer = () => {
            {/* social */}
            <ul className="flex text-white text-xl gap-4">
             <Link href="/" className="w-[54px] h-[54px] border border-white/[0.15] rounded-full flex items-center justify-center hover:text-accent transition-all">
+            
             <FaYoutube />
             </Link>
 
